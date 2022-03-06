@@ -1,0 +1,6 @@
+https://github.com/motoko-bootcamp/bootcamp/blob/main/daily_challenges/day_1/GUIDE.MD
+
+
+
+Language
+https://github.com/dfinity/motoko/blob/master/doc/overview-slides.md
